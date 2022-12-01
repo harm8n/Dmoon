@@ -1,4 +1,4 @@
-# gerenciadeconfiguracao22.2
+# duartt_repository
 
 ola, seja bem vindo ao meu repositorio ;)
 
