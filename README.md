@@ -73,6 +73,6 @@ _>artist
 _>systems dev student
 _>location: untracked
 _>name: unknown
-_>last location: 1F9B 
+_>last location: 192.168.***.**
 
 ass. the creator
